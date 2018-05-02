@@ -28,5 +28,4 @@
             <Image Source="img4.png"/>
         </StackLayout>
     </ContentPage>
-
 </CarouselPage>
